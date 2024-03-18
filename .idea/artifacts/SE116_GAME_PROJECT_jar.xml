@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SE116_GAME_PROJECT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SE116_GAME_PROJECT_jar</output-path>
+    <root id="archive" name="SE116_GAME_PROJECT.jar">
+      <element id="module-output" name="FlyYouFools" />
+    </root>
+  </artifact>
+</component>
