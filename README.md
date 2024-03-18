@@ -1,6 +1,5 @@
 # Fly You Fools
 Shoot ‘em up game developed using Java and Java Swing
 
-
-https://github.com/onurcanyasar/Fly-You-Fools/assets/64331104/d2897716-ab2f-4fe7-8719-14ab7efb0108
+https://github.com/onurcanyasar/Fly-You-Fools/assets/64331104/59198c98-9f77-456b-8e59-2cfaa6b30bb2
 
